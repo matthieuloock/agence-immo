@@ -24,7 +24,7 @@
     </ul>
   </div>
   <div class="footer__col">
-    <div class="footer__credits">© 2020 Grafikart Real Estate, Inc.</div>
+    <div class="footer__credits">© 2022 Matthieu, Inc.</div>
     <div class="footer__social">
       <a href="#" title="Nous suivre sur twitter">
         <svg class="icon">
