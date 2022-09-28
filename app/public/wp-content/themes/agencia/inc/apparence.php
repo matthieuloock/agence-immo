@@ -11,4 +11,5 @@ add_action('customize_register', function (WP_Customize_Manager $manager) {
         'label' => __('Logo', 'agencia'),
         'section' => 'agencia_appearance'
     ]));
+    
 });
